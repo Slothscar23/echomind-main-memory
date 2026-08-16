@@ -1,1 +1,1 @@
-{"phrases":1,"vocab":["hello","oscar","will","your","lead","trainer"],"corpus":[{"user":"Hello! I am Oscar. I will be your lead trainer!","ai":"H3ll0! I am Oscar. I"}],"style":{}}
+{"phrases":2,"vocab":["hello","oscar","will","your","lead","trainer","you","are","echomind"],"corpus":[{"user":"Hello! I am Oscar. I will be your lead trainer!","ai":"H3ll0! I am Oscar. I"},{"user":"You are EchoMind","ai":"are! I am Oscar. I"}],"style":{}}
